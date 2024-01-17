@@ -14,17 +14,10 @@
 
 <p align="left">I'm a front-end web developer. For many years I'm responsible as a Front-end Web Developer. There are some technologies that I know such as,  HTML5, CSS3, Bootstrap5, JavaScript, React.js Also, tools that I use for projects purposing like Figma for UI and Git & Github for version controlling. My experience has provided me with the experience and technical skills necessary to successfully support a company & its IT team with proper & sustainable software solutions in any web-based platform.</p>
 
-###
-
-<div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
 
 ###
 
+<p>Language and Tools:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -55,6 +48,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
+###
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-huda-mia&show_icons=true&locale=en&layout=compact" alt="md-huda-mia" /></p>
 
