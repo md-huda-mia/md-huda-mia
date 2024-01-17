@@ -55,4 +55,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
-###
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=md-huda-mia&show_icons=true&locale=en&layout=compact" alt="md-huda-mia" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=md-huda-mia&show_icons=true&locale=en" alt="md-huda-mia" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-huda-mia&" alt="md-huda-mia" /></p>
+
