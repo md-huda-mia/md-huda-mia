@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="center">A passionate FullStack Developer from Bangladesh</h3>
+<h3 align="center">A passionate FrontEnd Developer from Bangladesh</h3>
 
 ###
 
